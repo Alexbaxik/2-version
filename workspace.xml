@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21a2aa09-0b2f-45b9-a69d-93c5dadf2814" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bookshop" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bookshop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Entity" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Fd" pattern="src[app-web_main]:com.company.bookshop.web.screens.archive.*||src[app-global_main]:com.company.bookshop.*" />
+  </component>
+  <component name="ProjectId" id="1iHWwTyBPYHuX3S4ILhC0mOzn6S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="CUBA Application.CUBA Application">
+    <configuration name="localhost:8787" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CUBA Application" type="cubaTomcatConfiguration" factoryName="CUBA Application" jdk="#USE_PROJECT_JDK" jvmArgs="" environmentVariables="">
+      <predefined_log_file enabled="true" id="catalina" />
+      <method v="2">
+        <option name="DeployTomcatTaskProvider" enabled="true" />
+        <option name="CopyDbDriversTaskProvider" enabled="true" />
+        <option name="CheckDataBaseTaskProvider" enabled="true" />
+        <option name="AddJvmOptionsTomcatTaskProvider" enabled="true" />
+        <option name="DeployCubaApplicationTaskProvider" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21a2aa09-0b2f-45b9-a69d-93c5dadf2814" name="Default Changelist" comment="" />
+      <created>1601565235125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601565235125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="53" width="814" height="728" key="#Intentions" timestamp="1601800751341">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="330" y="53" width="814" height="728" key="#Intentions/0.0.1475.789@0.0.1475.789" timestamp="1601800751341" />
+    <state x="468" y="142" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601803066134">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="468" y="142" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1475.789@0.0.1475.789" timestamp="1601803066134" />
+    <state x="518" y="150" key="FileChooserDialogImpl" timestamp="1601800455600">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="518" y="150" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1601800455600" />
+    <state x="564" y="311" key="Github.CreateGistDialog" timestamp="1601821346561">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="564" y="311" key="Github.CreateGistDialog/0.0.1475.789@0.0.1475.789" timestamp="1601821346561" />
+    <state width="723" height="2" key="GridCell.Tab.0.bottom" timestamp="1601734969286">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.0.bottom/0.0.1475.789@0.0.1475.789" timestamp="1601734969286" />
+    <state width="723" height="2" key="GridCell.Tab.0.center" timestamp="1601734969285">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.0.center/0.0.1475.789@0.0.1475.789" timestamp="1601734969285" />
+    <state width="723" height="2" key="GridCell.Tab.0.left" timestamp="1601734969285">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.0.left/0.0.1475.789@0.0.1475.789" timestamp="1601734969285" />
+    <state width="723" height="2" key="GridCell.Tab.0.right" timestamp="1601734969285">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.0.right/0.0.1475.789@0.0.1475.789" timestamp="1601734969285" />
+    <state width="723" height="2" key="GridCell.Tab.1.bottom" timestamp="1601734969287">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.1.bottom/0.0.1475.789@0.0.1475.789" timestamp="1601734969287" />
+    <state width="723" height="2" key="GridCell.Tab.1.center" timestamp="1601734969287">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.1.center/0.0.1475.789@0.0.1475.789" timestamp="1601734969287" />
+    <state width="723" height="2" key="GridCell.Tab.1.left" timestamp="1601734969286">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.1.left/0.0.1475.789@0.0.1475.789" timestamp="1601734969286" />
+    <state width="723" height="2" key="GridCell.Tab.1.right" timestamp="1601734969287">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="723" height="2" key="GridCell.Tab.1.right/0.0.1475.789@0.0.1475.789" timestamp="1601734969287" />
+    <state x="478" y="227" key="LocMessageEditor" timestamp="1601800420754">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="478" y="227" key="LocMessageEditor/0.0.1475.789@0.0.1475.789" timestamp="1601800420754" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1601800194380">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="218" y="0" key="SettingsEditor/0.0.1475.789@0.0.1475.789" timestamp="1601800194380" />
+    <state x="358" y="111" key="com.haulmont.ag.ui.InjectObjectChooser" timestamp="1601800720204">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="358" y="111" key="com.haulmont.ag.ui.InjectObjectChooser/0.0.1475.789@0.0.1475.789" timestamp="1601800720204" />
+    <state x="398" y="94" key="com.haulmont.studio.intellij.action.creation.template.CreateFromTemplateWizard" timestamp="1601802407843">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="398" y="94" key="com.haulmont.studio.intellij.action.creation.template.CreateFromTemplateWizard/0.0.1475.789@0.0.1475.789" timestamp="1601802407843" />
+    <state x="292" y="111" key="com.haulmont.studio.intellij.ui.codegeneration.subscribeevent.SubscribeEventWizard" timestamp="1601732835449">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="292" y="111" key="com.haulmont.studio.intellij.ui.codegeneration.subscribeevent.SubscribeEventWizard/0.0.1475.789@0.0.1475.789" timestamp="1601732835449" />
+    <state x="367" y="74" key="com.haulmont.studio.intellij.ui.sd.ScreenPreviewDialog" timestamp="1601801911875">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="367" y="74" key="com.haulmont.studio.intellij.ui.sd.ScreenPreviewDialog/0.0.1475.789@0.0.1475.789" timestamp="1601801911875" />
+    <state x="439" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1601820396627">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="439" y="219" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1601820396627" />
+    <state x="330" y="53" key="scopes" timestamp="1601732927755">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="330" y="53" key="scopes/0.0.1475.789@0.0.1475.789" timestamp="1601732927755" />
+    <state x="400" y="110" width="672" height="678" key="search.everywhere.popup" timestamp="1601800450869">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="400" y="110" width="672" height="678" key="search.everywhere.popup/0.0.1475.789@0.0.1475.789" timestamp="1601800450869" />
+  </component>
+</project>
