@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        xmlns:c="http://schemas.haulmont.com/cuba/screen/jpql_condition.xsd"
+        caption="msg://archiveBrowse.caption"
+        focusComponent="archivesTable"
+        messagesPack="com.company.bookshop.web.screens.archive">
+    <data readOnly="true">
+        <collection id="archivesDc"
+                    class="com.company.bookshop.entity.Archive">
+            <view extends="_local"/>
+            <loader id="archivesDl">
+                <query>
+                    <![CDATA[select e from bookshop_Archive e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="archivesTable"
+            spacing="true">
+        <filter id="filter"
+                applyTo="archivesTable"
+                dataLoader="archivesDl">
+            <properties include=".*"/>
+        </filter>
+        <groupTable id="archivesTable"
+                    width="100%"
+                    dataContainer="archivesDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+            </actions>
+            <columns>
+                <column id="author"/>
+                <column id="file"/>
+                <column id="bookname"/>
+                <column id="year"/>
+            </columns>
+            <rowsCount/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="archivesTable.create"/>
+                <button id="editBtn" action="archivesTable.edit"/>
+                <button id="removeBtn" action="archivesTable.remove"/>
+            </buttonsPanel>
+        </groupTable>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>
